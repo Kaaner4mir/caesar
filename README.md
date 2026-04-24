@@ -1,7 +1,6 @@
 # Caesar Cipher in C# 🔐
 
 ![C#](https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/Framework-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 
 A simple console application written in C# that encrypts text using the classic **Caesar Cipher** algorithm. This project was created by [Kaaner4mir](https://github.com/Kaaner4mir).
